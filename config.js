@@ -4,16 +4,14 @@ import { fileURLToPath } from 'url'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰
 global.owner = [
-  ['593993684821', 'GataBot-MD 💖🐈', true],
-  ['593968585383'],
-  ['51941819582'],
-  ['51930583082'],
-  ['14509774891']
+  ['522221035602', 'Khillaz ', true],
+  ['522221035602'],
+  ['522221035602']
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['528451003894'], 
+global.prems = ['522221035602'], 
 
 global.APIs = { // API Prefix.
   
@@ -71,8 +69,8 @@ global.APIKeys = { // APIKey Here
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '🐈 𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = '🐈 Khillaz BOT'
+global.author = 'Khillaz BOT'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -82,25 +80,25 @@ global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
 global.vs = '1.1.30'
 global.version = vs
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.gt = 'KHILLAZ BOT'
 global.gatabot = gt
 
-global.yt = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
+global.yt = 'https://www.youtube.com/channel/UCH5wbUQ_OI3-nz835sE8ADA'
 global.youtube = yt
 
-global.ig = 'https://www.instagram.com/gata_dios'
+global.ig = 'https://www.instagram.com/carding_tv/'
 global.gatadiosig = ig
 
-global.md = 'https://github.com/GataNina-Li/GataBot-MD'
+global.md = 'https://github.com/Legalise666/GataBot-MD/'
 global.gatabot = md
 
-global.nn = 'https://chat.whatsapp.com/Hahc7UwSouH9jIDStkT5QW'
+global.nn = 'https://chat.whatsapp.com/D24p5cnCKiT0c3bHkTOhD4'
 global.nngrupo = nn
 
-global.nnn = 'https://chat.whatsapp.com/K3BB4VtvyzyJdnX2jLeurh'
+global.nnn = 'https://chat.whatsapp.com/D24p5cnCKiT0c3bHkTOhD4'
 global.nnngrupo = nnn
 
-global.paypal = 'https://paypal.me/OficialGD'
+global.paypal = 'https://paypal.me'
 global.donar = paypal
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
@@ -134,8 +132,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 | 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.wm = 'KHILLAZ| KHILLAZ 𝘿𝙞𝙤𝙨'
+global.igfg = 'KHILLAZ'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
